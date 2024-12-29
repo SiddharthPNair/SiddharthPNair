@@ -1,8 +1,9 @@
 ## Hi there 👋
 - 💬 Ask me about Python, C, Git and GitHub
+- 🌱 I’m currently learning HTML, CSS and JS
 - 📫 How to reach me: siddharthpknair@gmail.com
-- 😄 Pronouns: He/Him
-- - 🌱 I’m currently learning HTML, CSS and JS
+
+
 
 <!--
 **SiddharthPNair/SiddharthPNair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
