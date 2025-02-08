@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 💬 Ask me about Python, C, Git and GitHub
-- 🌱 I’m currently learning HTML, CSS and JS
+- 🌱 I’m currently learning Django.
 - 📫 How to reach me: siddharthpknair@gmail.com
 
 
