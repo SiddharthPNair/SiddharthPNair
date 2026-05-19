@@ -1,6 +1,6 @@
 ## Hi there 👋
-- 💬 Ask me about HTML5, CSS3, Python, C, C++, Java, Object-Oriented Programming, Git and GitHub
-- 🌱 I’m currently learning about JavaScript-related Front-End Web Development.
+- 💬 Ask me about HTML5, CSS3, JavaScript, React, SQL, Python, C, C++, Java, OOP, Git/GitHub
+- 🌱 I’m currently learning about JavaScript-related Frameworks.
 - 📫 How to reach me: siddharthpknair@gmail.com
 
 
